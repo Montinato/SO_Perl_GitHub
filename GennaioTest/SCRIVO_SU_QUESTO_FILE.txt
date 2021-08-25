@@ -1,0 +1,9 @@
+SCRIVO_SU_QUESTO_FILE.txt
+Sottocartella
+esempio.txt
+findWithGrep.pl
+main.pdf
+output.a
+test-copia.docx
+test.docx
+txt.ciao

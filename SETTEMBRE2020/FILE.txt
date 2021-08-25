@@ -1,0 +1,2 @@
+utente frances+ CPU: 4%
+Max uso CPU : root 5.9% 

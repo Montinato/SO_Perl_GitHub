@@ -1,0 +1,53 @@
+Name:	chrome
+Umask:	0022
+State:	S (sleeping)
+Tgid:	5320
+Ngid:	0
+Pid:	5320
+PPid:	5171
+TracerPid:	0
+Uid:	1000	1000	1000	1000
+Gid:	1000	1000	1000	1000
+FDSize:	64
+Groups:	24 25 27 29 30 44 46 108 114 116 117 125 127 128 999 1000 
+NStgid:	5320	59
+NSpid:	5320	59
+NSpgid:	1904	0
+NSsid:	1904	0
+VmPeak:	 8888828 kB
+VmSize:	 4820500 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	  100968 kB
+VmRSS:	   99068 kB
+RssAnon:	   25608 kB
+RssFile:	   72040 kB
+RssShmem:	    1420 kB
+VmData:	  167040 kB
+VmStk:	     132 kB
+VmExe:	  150264 kB
+VmLib:	   27088 kB
+VmPTE:	     916 kB
+VmPMD:	      76 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	13
+SigQ:	0/63725
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001002
+SigCgt:	00000001c0010000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	2
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	ff
+Cpus_allowed_list:	0-7
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	502
+nonvoluntary_ctxt_switches:	123
